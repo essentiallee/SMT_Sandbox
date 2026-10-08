@@ -1,0 +1,6 @@
+# Local preparation files; the finished page is entirely self-contained.
+work/
+data/Original
+.venv/
+__pycache__/
+.DS_Store

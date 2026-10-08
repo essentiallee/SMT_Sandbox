@@ -1,0 +1,60 @@
+{
+  "1_original_transactions": {
+    "rows": 2669,
+    "sha256": "a0f4c7891596d7ee4a28f1ab45a95bdaf338c15a6c40a376fce438a047263700"
+  },
+  "2_eligible_transactions": {
+    "rows": 2139,
+    "excluded": 530,
+    "organizations": 738
+  },
+  "3_observed_organizations": {
+    "rows": 738,
+    "budgets_cents": [
+      2128694252,
+      1452595732,
+      1541534831,
+      646544437
+    ],
+    "negative_organization_years": 24
+  },
+  "4_source_tracts": {
+    "rows": 2327,
+    "missing_nta": 0
+  },
+  "4_neighborhoods": {
+    "rows": 262
+  },
+  "5_locations": {
+    "rows": 738,
+    "census_matched": 721,
+    "nta_matched": 721,
+    "unmapped": 17,
+    "unmapped_names": [
+      "AXS LAB INC.",
+      "RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK",
+      "MUSEUM OF THE CITY OF NEW YORK, INC.",
+      "WESTBETH CORP. HOUSING DEVELOPMENT FUND COMPANY, INC.",
+      "ELECTRIC LITERATURE",
+      "THE POETRY SOCIETY OF AMERICA",
+      "YARN/WIRE INC",
+      "WORDS WITHOUT BORDERS",
+      "QUEENS MUSEUM OF ART",
+      "ROCKAWAY WATERFRONT ALLIANCE, INC.",
+      "DANCE PARADE INC",
+      "YOUNG AUDIENCES NEW YORK, INC.",
+      "FOLKSBIENE YIDDISH THEATRE INC",
+      "METROPOLITAN OPERA ASSOCIATION INC",
+      "BRONX CHILDRENS MUSEUM",
+      "COUNCIL ON THE ARTS AND HUMANITIES FOR STATEN ISLAND",
+      "TRUSTY SIDEKICK THEATER CO INC"
+    ]
+  },
+  "6_original_amendments": {
+    "rows": 1418
+  },
+  "6_fiscal_year_amendments": {
+    "rows": 162,
+    "excluded": 1256
+  }
+}
